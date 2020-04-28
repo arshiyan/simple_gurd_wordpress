@@ -2,7 +2,7 @@
 Its a simple gurd for wordpress developer
 
 
-just copy and paste this code to your function.php and then you can down and up your website by url
+just copy and paste this code to your functions.php and then you can down and up your website by url
 
 
 for display alarm 
