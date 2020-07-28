@@ -59,11 +59,11 @@ you can change start and stop by your string for example
 
 for display alarm 
 > for display alarm 
-your-website.com/?gurd=startyour-website.com/?gurd=aljsdkfjhakjsdhf
+your-website.com/?gurd=start   your-website.com/?gurd=aljsdkfjhakjsdhf
 
 and for unblock website 
 > and for unblock website 
-your-website.com/?gurd=stopyour-website.com/?gurd=kljshdkfhskljhdk
+your-website.com/?gurd=stop   your-website.com/?gurd=kljshdkfhskljhdk
 
 
 
